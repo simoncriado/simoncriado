@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=simoncriado&show_icons=true&locale=en" alt="simoncriado" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=simoncriado&show_icons=true&theme=gotham&locale=en&custom_title=My GitHub Stats" height="150" alt="simoncriado" /></p>
 
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false&custom_title=My GitHub Stats&username=simoncriado" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=gotham&hide_border=false&username=simoncriado" height="150" alt="languages graph"  />
