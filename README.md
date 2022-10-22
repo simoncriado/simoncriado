@@ -9,7 +9,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=simoncriado&show_icons=true&theme=gotham&locale=en" height="150" alt="simoncriado" />
+  <img src="https://github-readme-stats.vercel.app/api?username=simoncriado&show_icons=true&include_all_commits=true&theme=gotham&locale=en" height="150" alt="simoncriado" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=gotham&hide_border=false&username=simoncriado" height="150" alt="languages graph"  />
 </div>
 
