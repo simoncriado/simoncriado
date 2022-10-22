@@ -2,6 +2,10 @@
 
 ###
 
+<p align="left">Hello World!!</p>
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false&custom_title=My GitHub Stats&username=simoncriado" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=gotham&hide_border=false&username=simoncriado" height="150" alt="languages graph"  />
@@ -33,8 +37,8 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/simoncriado/simoncriado/blob/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://profile-counter.glitch.me/simoncriado/count.svg?"  />
+</div>
 
 ###
