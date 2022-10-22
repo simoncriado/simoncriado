@@ -31,7 +31,7 @@
 
 ###
 
-<h4 align="left">Here you have my LinkedIn profile where you can find more detailed professional information about me.<h4>
+<h4 align="left">Follow the link to my LinkedIn profile to find more detailed professional information about me.<h4>
 
 <div align="left">
   <a href="www.linkedin.com/in/simoncriado" target="_blank">
