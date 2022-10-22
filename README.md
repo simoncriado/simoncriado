@@ -1,8 +1,8 @@
-<h2 align="left">Hola 👋! My name is Simon and I'm a Junior Front End Web Developer.</h2>
+<h2 align="left">Hey there! My name is Simon and I'm a Junior Front End Web Developer.</h2>
 
 ###
 
-<p align="left">Hello World!!</p>
+<p align="left">Here you will find most of the projects I have worked on. Feel free to take a look around and please do not hesitate to contact me in case you have any question or comment!</p>
 
 ###
 
@@ -14,6 +14,8 @@
 </div>
 
 ###
+
+<h3 align="left">My tech stack includes: <h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
@@ -30,6 +32,8 @@
 </div>
 
 ###
+
+<h3 align="left">Here you have my LinkedIn profile where you can find more detailed professional information about me.<h3>
 
 <div align="left">
   <a href="www.linkedin.com/in/simoncriado" target="_blank">
