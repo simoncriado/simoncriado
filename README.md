@@ -1,4 +1,4 @@
-<h2 align="left">Hey there! My name is Simon and I'm a Junior Front End Web Developer.</h2>
+<h2 align="left">Hey there! My name is Simon and I'm a Junior Front End Web Developer</h2>
 
 ###
 
@@ -7,8 +7,6 @@
 ###
 
 <div align="center">
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=simoncriado&show_icons=true&theme=gotham&locale=en" height="150" alt="simoncriado" /></p>
-
   <img src="https://github-readme-stats.vercel.app/api?username=simoncriado&show_icons=true&theme=gotham&locale=en" height="150" alt="simoncriado" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=gotham&hide_border=false&username=simoncriado" height="150" alt="languages graph"  />
 </div>
@@ -33,7 +31,7 @@
 
 ###
 
-<h3 align="left">Here you have my LinkedIn profile where you can find more detailed professional information about me.<h3>
+<h4 align="left">Here you have my LinkedIn profile where you can find more detailed professional information about me.<h4>
 
 <div align="left">
   <a href="www.linkedin.com/in/simoncriado" target="_blank">
