@@ -4,6 +4,8 @@
 
 <p align="left">Here you will find most of the projects I have worked on. Feel free to take a look around and please do not hesitate to contact me in case you have any question or comment!</p>
 
+- 👨‍💻 Some of my projects are available at [https://simonc.netlify.app/about](https://simonc.netlify.app/about)
+
 ###
 
 <div align="center">
