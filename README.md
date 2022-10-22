@@ -6,7 +6,7 @@
 
 - 👨‍💻 Some of my projects are available at [https://simonc.netlify.app](https://simonc.netlify.app)
 
-- 📫 How to reach me **scriado.f@gmail.com**
+- 📫 You can reach me at: **scriado.f@gmail.com**
 
 ###
 
