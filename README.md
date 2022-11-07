@@ -4,9 +4,9 @@
 
 <p align="left">Here you will find most of the projects I have worked on. Feel free to take a look around and please do not hesitate to contact me in case you have any question or comment!</p>
 
-- 👨‍💻 Some of my projects are available at [https://simonc.netlify.app](https://simonc.netlify.app)
+ 👨‍💻 Some of my projects are available at [https://simonc.netlify.app](https://simonc.netlify.app)
 
-- 📫 You can reach me at: **scriado.f@gmail.com**
+ 📫 You can reach me at: **scriado.f@gmail.com**
 
 ###
 
@@ -34,7 +34,7 @@
 
 ###
 
-<h4 align="left">Follow the link to my LinkedIn profile to find more detailed professional information about me.<h4>
+<h3 align="left">Visit my LinkedIn profile to find detailed information about my career path.<h3>
 
 <p align="left">
 <a href="https://linkedin.com/in/simoncriado" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="simoncriado" height="30" width="40" /></a>
