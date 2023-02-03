@@ -5,6 +5,8 @@
 <p align="left">Here you will find most of the projects I have worked on. Feel free to take a look around and please do not hesitate to contact me in case you have any question or comment!</p>
 
   👨‍💻 Some of my projects are also available at [My Personal Portfolio](https://simoncriado.netlify.app)
+  
+  📚 Visit my LinkedIn profile to find detailed information about my career path [My LinkedIn Profile](https://www.linkedin.com/in/simoncriado/)
 
   📫 You can reach me at: **scriado.f@gmail.com**
 
@@ -18,34 +20,43 @@
 ###
 
 <h3 align="left">My tech stack includes: <h3>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" width="42" alt="typescript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" width="42" alt="redux logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" width="42" alt="sass logo"  />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="30" width="42" alt="tailwind logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" width="42" alt="bootstrap logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-plain.svg" height="30" width="42" alt="gatsby logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="30" width="42" alt="jest logo"  />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" height="30" width="42" alt="nodejs logo"  />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" height="30" width="42" alt="mysql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" width="42" alt="firebase logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="42" alt="git logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="42" alt="vscode logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" width="42" alt="figma logo"  />
- 
-</div>
+  
+  <h5>- Programming languages:</h5>
+  
+  &emsp;
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-323232?style=for-the-badge&logo=JavaScript)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-323232?style=for-the-badge&logo=TypeScript)
+  
+  <h5>- Frontend development:</h5>
+  
+  &emsp;
+  ![HTML5](https://img.shields.io/badge/-HTML5-323232?style=for-the-badge&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS3-323232?style=for-the-badge&logoColor=2965f1&logo=CSS3)
+  ![React](https://img.shields.io/badge/-React-323232?style=for-the-badge&logo=React)
+  ![Redux](https://img.shields.io/badge/-Redux-323232?style=for-the-badge&logoColor=764abc&logo=Redux)
+  ![SASS](https://img.shields.io/badge/-SASS-323232?style=for-the-badge&logo=SASS)
+  ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-323232?style=for-the-badge&logo=TailwindCSS)
+  ![Bootstrap](https://img.shields.io/badge/-bootstrap-323232?style=for-the-badge&logo=bootstrap)
+  ![GatsbyJS](https://img.shields.io/badge/-gatsbyJS-323232?style=for-the-badge&logoColor=663399&logo=gatsby)
+  
+  <h5>- Backend development:</h5>
+  
+  &emsp;
+  ![NodeJS](https://img.shields.io/badge/-NodeJS-323232?style=for-the-badge&logo=Node.js)
+  ![Express](https://img.shields.io/badge/-Express-323232?style=for-the-badge&logoColor=68A063&logo=Express)
+  ![MySQL](https://img.shields.io/badge/-MySQL-323232?style=for-the-badge&logo=MySQL)
+  ![Firebase](https://img.shields.io/badge/-Firebase-323232?style=for-the-badge&logo=firebase)
+  
+  <h5>- Misc tools:</h5>
+  
+  &emsp;
+  ![Jest](https://img.shields.io/badge/-Jest-323232?style=for-the-badge&logoColor=C63D14&logo=Jest)
+  ![Cypress](https://img.shields.io/badge/-Cypress-323232?style=for-the-badge&logoColor=04C38E&logo=Cypress)
+  ![Git](https://img.shields.io/badge/-Git-323232?style=for-the-badge&logo=Git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-323232?style=for-the-badge&logo=GitHub)
+  ![VS Code](https://img.shields.io/badge/-VS%20Code-323232?style=for-the-badge&logoColor=0078d7&logo=Visual-Studio-Code)
+  ![Postman](https://img.shields.io/badge/-Postman-323232?style=for-the-badge&logo=Postman)
+  ![Figma](https://img.shields.io/badge/-Figma-323232?style=for-the-badge&logo=Figma)
 
 ###
 
-<h3 align="left">Visit my LinkedIn profile to find detailed information about my career path<h3>
-
-<p align="left">
-<a href="https://linkedin.com/in/simoncriado" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="simoncriado" height="30" width="40" /></a>
-</p>
-
-###
