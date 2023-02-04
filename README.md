@@ -57,6 +57,7 @@
   ![VS Code](https://img.shields.io/badge/-VS%20Code-323232?style=for-the-badge&logoColor=0078d7&logo=Visual-Studio-Code)
   ![Postman](https://img.shields.io/badge/-Postman-323232?style=for-the-badge&logo=Postman)
   ![Figma](https://img.shields.io/badge/-Figma-323232?style=for-the-badge&logo=Figma)
+  ![Netlify](https://img.shields.io/badge/-Netlify-323232?style=for-the-badge&logo=Netlify)
 
 ###
 
