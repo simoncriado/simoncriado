@@ -26,6 +26,7 @@
   &emsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-323232?style=for-the-badge&logo=JavaScript)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-323232?style=for-the-badge&logo=TypeScript)
+  ![PHP](https://img.shields.io/badge/-PHP-323232?style=for-the-badge&logo=PHP)
   
   <h5>- Frontend development:</h5>
   
