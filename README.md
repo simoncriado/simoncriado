@@ -47,6 +47,7 @@
   ![Express](https://img.shields.io/badge/-Express-323232?style=for-the-badge&logoColor=68A063&logo=Express)
   ![MySQL](https://img.shields.io/badge/-MySQL-323232?style=for-the-badge&logo=MySQL)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-323232?style=for-the-badge&logo=mongodb)
+  ![GraphQL](https://img.shields.io/badge/-GraphQL-323232?style=for-the-badge&logoColor=e535ab&logo=graphql)
   ![Firebase](https://img.shields.io/badge/-Firebase-323232?style=for-the-badge&logo=firebase)
   
   <h5>- Misc tools:</h5>
