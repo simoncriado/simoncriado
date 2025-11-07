@@ -1,16 +1,37 @@
-<h2 align="left">Hey there! My name is Simon and I'm a Junior Full Stack Web Developer</h2>
+<h2 align="left">Hey there! I'm Simon — a Full Stack Web Developer</h2>
 
-###
+<p align="left">
+  Passionate about building modern, efficient, and user-friendly web applications.  
+  Here you'll find many of the projects I've worked on — feel free to explore, and don’t hesitate to reach out if you have any questions or ideas!
+</p>
 
-<p align="left">Here you will find most of the projects I have worked on. Feel free to take a look around and please do not hesitate to contact me in case you have any question or comment!</p>
+---
 
-  👨‍💻 Some of my projects are also available at [My Personal Portfolio](https://simoncriado.netlify.app)
-  
-  📚 Visit my LinkedIn profile to find detailed information about my career path [My LinkedIn Profile](https://www.linkedin.com/in/simoncriado/)
+### 🌐 Find me online
+- 👨‍💻 Some of my work is also available at [**My Personal Portfolio**](https://simoncriado.netlify.app)
+- 💼 Learn more about my experience on [**LinkedIn**](https://www.linkedin.com/in/simoncriado/)
+- 📫 Reach me at **scriado.f@gmail.com**
 
-  📫 You can reach me at: **scriado.f@gmail.com**
+---
 
-###
+### 💼 Current Work
+
+I’m currently part of the Dev team at **[Emotion®](https://emotion.es)**, where I work as a **Full Stack Web Developer** building and maintaining high-quality web applications for internal tools and client projects.  
+
+My work focuses on developing **scalable full stack solutions** and integrating various external services to streamline company operations and enhance user experience.
+
+#### 🧠 Tech Stack at Emotion®
+- 💻 **Languages:** JavaScript, TypeScript  
+- ⚛️ **Frontend:** React.js, Next.js, Tailwind CSS  
+- ⚙️ **Backend:** Node.js, Prisma ORM, MySQL  
+- 🔗 **Integrations:** Pipedrive API, Google APIs, Holded API  
+- 🌐 **Development Focus:** Full-Stack Web Applications & API Integrations  
+
+> 🔒 Most of my contributions are made within private repositories under the company’s GitHub organization.  
+> You can check some of my work-related contributions at **[github.com/simonemotion](https://github.com/simonemotion)**  
+> and explore my public and personal projects below 👇
+
+---
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=simoncriado&show_icons=true&include_all_commits=true&theme=gotham&locale=en" height="150" alt="simoncriado" />
